@@ -9,4 +9,6 @@ wheels/
 # Virtual environments
 djenv
 
-secretfile.txt
+mixtape
+output
+
